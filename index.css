@@ -60,5 +60,58 @@
 }
 
 
+.b2{
+    background-color: #FF9C08;
+    padding: 21px 50px;
+    border: 1px solid #FF9C08;
+    font-size: 28px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.b3{
+    background-color: white;
+    padding: 21px 50px;
+    border: 1px solid #F0ECE8;
+    font-size: 28px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.h2{
+    font-size: 90px;
+    margin: 0;
+}
+
+.d5{
+    display: flex;
+    align-items: center;
+    max-width: 1906px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.p3{
+    color: #6E6E6E;
+    font-size: 38px;
+}
+
+.img3{
+    margin: 0;
+}
+
+.d6{
+    margin-left: 150px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
